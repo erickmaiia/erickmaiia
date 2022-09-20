@@ -1,4 +1,4 @@
-## Hello my name is Erick Maia, software developer and student of programming and technology!!
+## Hello my name is Erick Maia, software developer!!
 <div align="center">
   <a href="https://github.com/erickmaiia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickmaiia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
