@@ -12,8 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="jupyter" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
-  <img align="center" alt="mysql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="JS" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
   
   ##
   
