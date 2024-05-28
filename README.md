@@ -32,12 +32,7 @@
 </div>
 <br>
 
-<div align="center" gap="6">
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=erickmaiia&theme=aura&show_icons=true&rank_icon=percentile&include_all_commits=true" />  
+<div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickmaiia&layout=compact&langs_count=7&theme=aura&show_icons=true&show_icons=true&hide_border=true&border_radius=10"/>
 </div>
 
-
-<div align="center">
-  <img src="./9TLY.gif" width="700" height="400"/>
-</div>
