@@ -29,7 +29,4 @@
 </div>
 
 <br>
-
-<div align="center" width="100%">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickmaiia&layout=compact&langs_count=7&theme=aura&show_icons=true&hide_border=true&border_radius=10" alt="Top Languages"/>
-</div>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickmaiia&layout=compact&langs_count=7&theme=aura&show_icons=true&hide_border=true&border_radius=10" alt="Top Languages"/>
