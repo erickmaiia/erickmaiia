@@ -1,7 +1,7 @@
 <header>
   <div align="center">
     <p>
-      <b>Hey! My name is Erick Maia.<br>FullStack Developer.</b>
+      <b>Hey! My name is Erick Maia.
       <br><br>
       🎓 Software Engineering
     </p>
