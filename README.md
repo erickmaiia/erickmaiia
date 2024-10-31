@@ -2,10 +2,16 @@
 <p align="center">I ❤️ passionate to data and tech. <br><br>
 Graduating to be a software engineer, but I fell in love with the data science field.</p>&nbsp;
 
-<div display="flex" align="center" style="margin-bottom:100px">
-<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=erickmaiia&theme=dark&mode=weekly"/>
-<img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickmaiia&layout=compact&langs_count=7&theme=aura&show_icons=true&hide_border=true&border_radius=10" alt="Top Languages"/>
-</div>
+<table align="center" style="margin-bottom:100px">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=erickmaiia&theme=dark&mode=weekly"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickmaiia&layout=compact&langs_count=7&theme=aura&show_icons=true&hide_border=true&border_radius=10" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 
 ## My Skills
