@@ -30,6 +30,8 @@ Graduating to be a software engineer, but I fell in love with the data science f
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ## Contacts:
 <div> 
