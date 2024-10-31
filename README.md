@@ -2,7 +2,7 @@
 <p align="center">I ❤️ passionate to data and tech. <br><br>
 Graduating to be a software engineer, but I fell in love with the data science field.</p>&nbsp;
 
-<table align="center" style="margin-bottom:100px">
+<table align="center">
   <tr>
     <td align="center" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=erickmaiia&theme=dark&mode=weekly"/>
@@ -35,23 +35,16 @@ Graduating to be a software engineer, but I fell in love with the data science f
 
 ![POSTGRESQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
+<br><br>
 
 ## Contacts:
 <div> 
-</a>
-<a href="https://www.linkedin.com/in/erick-maia-8b3a22231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
+  <a href="mailto:erick.maiia.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/erick-maia-8b3a22231/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
