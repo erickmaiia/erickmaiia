@@ -3,8 +3,8 @@
 Graduating to be a software engineer, but I fell in love with the data science field.</p>&nbsp;
 
 <div display="flex" align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=erickmaiia&theme=dark&mode=weekly"/>
-<img height="150em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickmaiia&layout=compact&langs_count=7&theme=aura&show_icons=true&hide_border=true&border_radius=10" alt="Top Languages"/>
+<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=erickmaiia&theme=dark&mode=weekly"/>
+<img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickmaiia&layout=compact&langs_count=7&theme=aura&show_icons=true&hide_border=true&border_radius=10" alt="Top Languages"/>
 </div>
 
 
@@ -29,7 +29,18 @@ Graduating to be a software engineer, but I fell in love with the data science f
 
 ![POSTGRESQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-<div style="margin-top:300px"> </div>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 
 ## Contacts:
 <div> 
