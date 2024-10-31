@@ -29,7 +29,7 @@ Graduating to be a software engineer, but I fell in love with the data science f
 
 ![POSTGRESQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-<div style="margin-top:100px"> </div>
+<div style="margin-top:300px"> </div>
 
 ## Contacts:
 <div> 
