@@ -2,17 +2,9 @@
 <p align="center">I ❤️ passionate to data and tech. <br><br>
 Graduating to be a software engineer, but I fell in love with the data science field.</p>&nbsp;
 
-<table align="center"  style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td align="center" width="50%" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=erickmaiia&theme=dark&mode=weekly"/>
-    </td>
-    <td align="center" width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickmaiia&layout=compact&langs_count=7&theme=aura&show_icons=true&hide_border=true&border_radius=10" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
+<div  align="center" style="margin-bottom:100px">
+  <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erickmaiia&theme=dark&mode=weekly"/>
+ </div>
 
 ## My Skills
 
@@ -35,15 +27,13 @@ Graduating to be a software engineer, but I fell in love with the data science f
 
 ![POSTGRESQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-<br><br>
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickmaiia&layout=compact&langs_count=7&theme=aura&show_icons=true&hide_border=true&border_radius=10" alt="Top Languages"/>
+
 <br><br>
 
 ## Contacts:
 <div> 
-  <a href="mailto:erick.maiia.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>&nbsp;
+  <a href = "mailto:erick.maiia.dev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erick-maia-8b3a22231/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
