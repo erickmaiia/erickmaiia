@@ -29,8 +29,6 @@ Graduating to be a software engineer, but I fell in love with the data science f
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickmaiia&layout=compact&langs_count=7&theme=aura&show_icons=true&hide_border=true&border_radius=10" alt="Top Languages"/>
 
-<br><br>
-
 ## Contacts:
 <div> 
   <a href = "mailto:erick.maiia.dev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
