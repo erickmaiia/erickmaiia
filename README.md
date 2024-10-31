@@ -27,6 +27,8 @@ Graduating to be a software engineer, but I fell in love with the data science f
 
 ![POSTGRESQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
+<br><br>
+
 ## Contacts:
 <div> 
   <a href = "mailto:erick.maiia.dev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
